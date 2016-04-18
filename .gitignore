@@ -1,2 +1,4 @@
 .vagrant/
 openrc*
+*.pem
+.DS_Store
